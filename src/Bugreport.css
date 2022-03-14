@@ -1,0 +1,128 @@
+.Bugreport{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #DCDCDC;
+    height: 807px;
+    
+}
+.formitems{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 906px;
+    height: 687px;
+    background-color: #FFFFFF;
+
+}
+.items{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: space-between;
+    width: 646px;
+}
+#module{
+    margin-left: 28px;
+    width: 321px;
+    height: 52px;
+}
+#subject{
+    margin-left: 28px;
+    width: 321px;
+    height: 52px;
+}
+#description{
+    margin-left: 28px;
+    width: 321px;
+    height: 127px;
+    vertical-align:text-top;
+}
+#behaviordescription{
+    margin-left: 28px;
+    width: 321px;
+    height: 127px;
+    vertical-align:text-top;
+}
+.lebel{
+    width: 298px;
+    height: 48px;
+    
+}
+.navigation{
+    align-items: center;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+#modulelebel{
+    margin-top: 64px;
+}
+#subjectlebel{
+    margin-top: 31px;
+}
+#descriptionlebel{
+    margin-top: 31px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+#behaviordeslebel{
+    margin-top: 31px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+#attachingFile{
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    margin-top: 31px;
+    /* margin-right: 633px; */
+    margin-left: 181px;
+
+}
+#image{
+    height: 17.796344757080078px;
+    width: 16.08573341369629px;
+    
+}
+p{
+    height: 22px;
+    width: 92px;
+    margin-left: 14.32px;
+    
+}
+.behaviorlebel{
+    width: 298px;
+    height: 48px;
+    
+}
+#frequency{
+    
+    width: 321px;
+    height: 52px;
+}
+#duplicate{
+    width: 291px;
+    height: 52px;
+    margin-right: 31px;
+    
+}
+.seconddrops{
+    margin-top: 33px;
+    display: flex;
+    flex-direction: row;
+}
+#cancel-button{
+    width:124px;
+    height:48px;
+    background: #455A64;
+}
+#next-button{
+    width:124px;
+    height:48px;
+    margin-left:18px;
+    background: #046BFC;
+
+}
